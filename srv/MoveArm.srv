@@ -1,4 +1,4 @@
-string arm 
+string[] names
 float64[] positions
 ---
 string msg
