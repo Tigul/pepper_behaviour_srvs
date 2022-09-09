@@ -58,6 +58,7 @@ add_service_files(DIRECTORY srv
     MoveArm.srv
     MoveHead.srv
     Speak.srv
+    Visualize.srv
 #   Service1.srv
 #   Service2.srv
  )
